@@ -30,6 +30,11 @@
 		1678EA051FE999CA00CBB5FF /* DistanceTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678EA001FE999CA00CBB5FF /* DistanceTableViewCell.swift */; };
 		1678EA0A1FE99A3E00CBB5FF /* Countries.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1678EA081FE99A3E00CBB5FF /* Countries.storyboard */; };
 		1678EA0C1FE99F3000CBB5FF /* Assets in Resources */ = {isa = PBXBuildFile; fileRef = 1678EA0B1FE99F2F00CBB5FF /* Assets */; };
+		1678EA171FE9BE9E00CBB5FF /* HalloweenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678EA131FE9BE9E00CBB5FF /* HalloweenViewController.swift */; };
+		1678EA181FE9BE9E00CBB5FF /* House.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678EA141FE9BE9E00CBB5FF /* House.swift */; };
+		1678EA191FE9BE9E00CBB5FF /* HouseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678EA151FE9BE9E00CBB5FF /* HouseTableViewCell.swift */; };
+		1678EA1A1FE9BE9E00CBB5FF /* HouseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678EA161FE9BE9E00CBB5FF /* HouseTableViewController.swift */; };
+		1678EA1F1FE9BF7300CBB5FF /* HappyHalloween.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1678EA1D1FE9BF7300CBB5FF /* HappyHalloween.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +84,11 @@
 		1678EA001FE999CA00CBB5FF /* DistanceTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DistanceTableViewCell.swift; sourceTree = "<group>"; };
 		1678EA091FE99A3E00CBB5FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Countries.storyboard; sourceTree = "<group>"; };
 		1678EA0B1FE99F2F00CBB5FF /* Assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Assets; sourceTree = "<group>"; };
+		1678EA131FE9BE9E00CBB5FF /* HalloweenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HalloweenViewController.swift; sourceTree = "<group>"; };
+		1678EA141FE9BE9E00CBB5FF /* House.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = House.swift; sourceTree = "<group>"; };
+		1678EA151FE9BE9E00CBB5FF /* HouseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HouseTableViewCell.swift; sourceTree = "<group>"; };
+		1678EA161FE9BE9E00CBB5FF /* HouseTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HouseTableViewController.swift; sourceTree = "<group>"; };
+		1678EA1E1FE9BF7300CBB5FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/HappyHalloween.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +139,7 @@
 		163CEA721FE964640040A0FA /* Portfolio */ = {
 			isa = PBXGroup;
 			children = (
+				1678EA101FE9BE6100CBB5FF /* HappyHalloween */,
 				1678E9FB1FE9800100CBB5FF /* CountriesAndNeighbours */,
 				1678E9E01FE96B5E00CBB5FF /* ProjectVehicles */,
 				1678E9F41FE9729300CBB5FF /* ViewController */,
@@ -225,6 +236,34 @@
 				1678E9FF1FE999CA00CBB5FF /* DistancesViewController.swift */,
 				1678EA001FE999CA00CBB5FF /* DistanceTableViewCell.swift */,
 				1678E9FD1FE999CA00CBB5FF /* CustomPointAnnotation.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		1678EA101FE9BE6100CBB5FF /* HappyHalloween */ = {
+			isa = PBXGroup;
+			children = (
+				1678EA1D1FE9BF7300CBB5FF /* HappyHalloween.storyboard */,
+				1678EA1C1FE9BEAB00CBB5FF /* ViewController */,
+				1678EA1B1FE9BEA300CBB5FF /* Model */,
+			);
+			path = HappyHalloween;
+			sourceTree = "<group>";
+		};
+		1678EA1B1FE9BEA300CBB5FF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				1678EA141FE9BE9E00CBB5FF /* House.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		1678EA1C1FE9BEAB00CBB5FF /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				1678EA131FE9BE9E00CBB5FF /* HalloweenViewController.swift */,
+				1678EA161FE9BE9E00CBB5FF /* HouseTableViewController.swift */,
+				1678EA151FE9BE9E00CBB5FF /* HouseTableViewCell.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -341,6 +380,7 @@
 				1678E9F11FE96D9D00CBB5FF /* Vehicles.storyboard in Resources */,
 				163CEA7B1FE964640040A0FA /* Assets.xcassets in Resources */,
 				1678EA0A1FE99A3E00CBB5FF /* Countries.storyboard in Resources */,
+				1678EA1F1FE9BF7300CBB5FF /* HappyHalloween.storyboard in Resources */,
 				163CEA791FE964640040A0FA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -367,11 +407,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				1678E9ED1FE96D4000CBB5FF /* TrucksViewController.swift in Sources */,
+				1678EA1A1FE9BE9E00CBB5FF /* HouseTableViewController.swift in Sources */,
+				1678EA181FE9BE9E00CBB5FF /* House.swift in Sources */,
 				1678E9F61FE9739500CBB5FF /* PortfolioViewController.swift in Sources */,
 				1678E9EB1FE96D4000CBB5FF /* Vehicle.swift in Sources */,
+				1678EA191FE9BE9E00CBB5FF /* HouseTableViewCell.swift in Sources */,
 				1678EA041FE999CA00CBB5FF /* DistancesViewController.swift in Sources */,
 				1678E9EE1FE96D4000CBB5FF /* VehiclesPageViewController.swift in Sources */,
 				1678EA031FE999CA00CBB5FF /* CountriesViewController.swift in Sources */,
+				1678EA171FE9BE9E00CBB5FF /* HalloweenViewController.swift in Sources */,
 				1678E9E91FE96D4000CBB5FF /* VehiclesViewController.swift in Sources */,
 				1678EA051FE999CA00CBB5FF /* DistanceTableViewCell.swift in Sources */,
 				1678E9EA1FE96D4000CBB5FF /* Car.swift in Sources */,
@@ -446,6 +490,14 @@
 				1678EA091FE99A3E00CBB5FF /* Base */,
 			);
 			name = Countries.storyboard;
+			sourceTree = "<group>";
+		};
+		1678EA1D1FE9BF7300CBB5FF /* HappyHalloween.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1678EA1E1FE9BF7300CBB5FF /* Base */,
+			);
+			name = HappyHalloween.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

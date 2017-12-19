@@ -9,7 +9,7 @@
 import UIKit
 
 class PortfolioViewController: UITableViewController {
-    private let projects: [String] = ["Project Vehicles", "Countries and Neighbours"]
+    private let projects: [String] = ["Project Vehicles", "Countries and Neighbours", "Happy Halloween"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -46,6 +46,8 @@ class PortfolioViewController: UITableViewController {
             segueId = "showProjectVehicles"
         case 1:
             segueId = "showCountriesAndNeighbours"
+        case 2:
+            segueId = "showHappyHalloween"
         default:
             print("No specific action.")
         }
