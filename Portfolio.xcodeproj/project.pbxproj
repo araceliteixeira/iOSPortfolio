@@ -8,12 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		163CEA741FE964640040A0FA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163CEA731FE964640040A0FA /* AppDelegate.swift */; };
-		163CEA761FE964640040A0FA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163CEA751FE964640040A0FA /* ViewController.swift */; };
 		163CEA791FE964640040A0FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 163CEA771FE964640040A0FA /* Main.storyboard */; };
 		163CEA7B1FE964640040A0FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 163CEA7A1FE964640040A0FA /* Assets.xcassets */; };
 		163CEA7E1FE964640040A0FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 163CEA7C1FE964640040A0FA /* LaunchScreen.storyboard */; };
 		163CEA891FE964640040A0FA /* PortfolioTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163CEA881FE964640040A0FA /* PortfolioTests.swift */; };
 		163CEA941FE964640040A0FA /* PortfolioUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 163CEA931FE964640040A0FA /* PortfolioUITests.swift */; };
+		1678E9E81FE96D4000CBB5FF /* Truck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678E9E11FE96D4000CBB5FF /* Truck.swift */; };
+		1678E9E91FE96D4000CBB5FF /* VehiclesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678E9E21FE96D4000CBB5FF /* VehiclesViewController.swift */; };
+		1678E9EA1FE96D4000CBB5FF /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678E9E31FE96D4000CBB5FF /* Car.swift */; };
+		1678E9EB1FE96D4000CBB5FF /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678E9E41FE96D4000CBB5FF /* Vehicle.swift */; };
+		1678E9EC1FE96D4000CBB5FF /* CarsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678E9E51FE96D4000CBB5FF /* CarsViewController.swift */; };
+		1678E9ED1FE96D4000CBB5FF /* TrucksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678E9E61FE96D4000CBB5FF /* TrucksViewController.swift */; };
+		1678E9EE1FE96D4000CBB5FF /* VehiclesPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678E9E71FE96D4000CBB5FF /* VehiclesPageViewController.swift */; };
+		1678E9F11FE96D9D00CBB5FF /* Vehicles.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1678E9EF1FE96D9D00CBB5FF /* Vehicles.storyboard */; };
+		1678E9F61FE9739500CBB5FF /* PortfolioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678E9F51FE9739500CBB5FF /* PortfolioViewController.swift */; };
+		1678E9F81FE9747300CBB5FF /* LabelTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678E9F71FE9747300CBB5FF /* LabelTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +45,6 @@
 /* Begin PBXFileReference section */
 		163CEA701FE964640040A0FA /* Portfolio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Portfolio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		163CEA731FE964640040A0FA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		163CEA751FE964640040A0FA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		163CEA781FE964640040A0FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		163CEA7A1FE964640040A0FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		163CEA7D1FE964640040A0FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +55,16 @@
 		163CEA8F1FE964640040A0FA /* PortfolioUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PortfolioUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		163CEA931FE964640040A0FA /* PortfolioUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioUITests.swift; sourceTree = "<group>"; };
 		163CEA951FE964640040A0FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1678E9E11FE96D4000CBB5FF /* Truck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Truck.swift; sourceTree = "<group>"; };
+		1678E9E21FE96D4000CBB5FF /* VehiclesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VehiclesViewController.swift; sourceTree = "<group>"; };
+		1678E9E31FE96D4000CBB5FF /* Car.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
+		1678E9E41FE96D4000CBB5FF /* Vehicle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Vehicle.swift; sourceTree = "<group>"; };
+		1678E9E51FE96D4000CBB5FF /* CarsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CarsViewController.swift; sourceTree = "<group>"; };
+		1678E9E61FE96D4000CBB5FF /* TrucksViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrucksViewController.swift; sourceTree = "<group>"; };
+		1678E9E71FE96D4000CBB5FF /* VehiclesPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VehiclesPageViewController.swift; sourceTree = "<group>"; };
+		1678E9F01FE96D9D00CBB5FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Vehicles.storyboard; sourceTree = "<group>"; };
+		1678E9F51FE9739500CBB5FF /* PortfolioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioViewController.swift; sourceTree = "<group>"; };
+		1678E9F71FE9747300CBB5FF /* LabelTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +115,9 @@
 		163CEA721FE964640040A0FA /* Portfolio */ = {
 			isa = PBXGroup;
 			children = (
+				1678E9E01FE96B5E00CBB5FF /* ProjectVehicles */,
 				163CEA731FE964640040A0FA /* AppDelegate.swift */,
-				163CEA751FE964640040A0FA /* ViewController.swift */,
+				1678E9F41FE9729300CBB5FF /* ViewController */,
 				163CEA771FE964640040A0FA /* Main.storyboard */,
 				163CEA7A1FE964640040A0FA /* Assets.xcassets */,
 				163CEA7C1FE964640040A0FA /* LaunchScreen.storyboard */,
@@ -123,6 +142,46 @@
 				163CEA951FE964640040A0FA /* Info.plist */,
 			);
 			path = PortfolioUITests;
+			sourceTree = "<group>";
+		};
+		1678E9E01FE96B5E00CBB5FF /* ProjectVehicles */ = {
+			isa = PBXGroup;
+			children = (
+				1678E9EF1FE96D9D00CBB5FF /* Vehicles.storyboard */,
+				1678E9F31FE9726D00CBB5FF /* ViewController */,
+				1678E9F21FE9724100CBB5FF /* Model */,
+			);
+			path = ProjectVehicles;
+			sourceTree = "<group>";
+		};
+		1678E9F21FE9724100CBB5FF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				1678E9E41FE96D4000CBB5FF /* Vehicle.swift */,
+				1678E9E31FE96D4000CBB5FF /* Car.swift */,
+				1678E9E11FE96D4000CBB5FF /* Truck.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		1678E9F31FE9726D00CBB5FF /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				1678E9E21FE96D4000CBB5FF /* VehiclesViewController.swift */,
+				1678E9E71FE96D4000CBB5FF /* VehiclesPageViewController.swift */,
+				1678E9E51FE96D4000CBB5FF /* CarsViewController.swift */,
+				1678E9E61FE96D4000CBB5FF /* TrucksViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		1678E9F41FE9729300CBB5FF /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				1678E9F51FE9739500CBB5FF /* PortfolioViewController.swift */,
+				1678E9F71FE9747300CBB5FF /* LabelTableViewCell.swift */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,6 +292,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				163CEA7E1FE964640040A0FA /* LaunchScreen.storyboard in Resources */,
+				1678E9F11FE96D9D00CBB5FF /* Vehicles.storyboard in Resources */,
 				163CEA7B1FE964640040A0FA /* Assets.xcassets in Resources */,
 				163CEA791FE964640040A0FA /* Main.storyboard in Resources */,
 			);
@@ -259,8 +319,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				163CEA761FE964640040A0FA /* ViewController.swift in Sources */,
+				1678E9ED1FE96D4000CBB5FF /* TrucksViewController.swift in Sources */,
+				1678E9F61FE9739500CBB5FF /* PortfolioViewController.swift in Sources */,
+				1678E9EB1FE96D4000CBB5FF /* Vehicle.swift in Sources */,
+				1678E9EE1FE96D4000CBB5FF /* VehiclesPageViewController.swift in Sources */,
+				1678E9E91FE96D4000CBB5FF /* VehiclesViewController.swift in Sources */,
+				1678E9EA1FE96D4000CBB5FF /* Car.swift in Sources */,
+				1678E9F81FE9747300CBB5FF /* LabelTableViewCell.swift in Sources */,
 				163CEA741FE964640040A0FA /* AppDelegate.swift in Sources */,
+				1678E9E81FE96D4000CBB5FF /* Truck.swift in Sources */,
+				1678E9EC1FE96D4000CBB5FF /* CarsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +378,14 @@
 				163CEA7D1FE964640040A0FA /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		1678E9EF1FE96D9D00CBB5FF /* Vehicles.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1678E9F01FE96D9D00CBB5FF /* Base */,
+			);
+			name = Vehicles.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
