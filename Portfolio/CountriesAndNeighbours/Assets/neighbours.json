@@ -1,0 +1,1732 @@
+{"countriesNeighbours":[
+{
+    "country":"AD",
+    "neighbours":[
+        "FR",
+        "ES"
+    ]
+},{
+    "country":"AE",
+    "neighbours":[
+        "OM",
+        "SA"
+    ]
+},{
+    "country":"AF",
+    "neighbours":[
+        "CN",
+        "IR",
+        "PK",
+        "TJ",
+        "TM",
+        "UZ"
+    ]
+},{
+    "country":"AG",
+    "neighbours":[
+
+    ]
+},{
+    "country":"AI",
+    "neighbours":[
+
+    ]
+},{
+    "country":"AL",
+    "neighbours":[
+        "GR",
+        "XK",
+        "MK",
+        "ME",
+        "RS"
+    ]
+},{
+    "country":"AM",
+    "neighbours":[
+        "AZ",
+        "GE",
+        "IR",
+        "TR"
+    ]
+},{
+    "country":"AO",
+    "neighbours":[
+        "CD",
+        "NA",
+        "CG",
+        "ZM"
+    ]
+},{
+    "country":"AQ",
+    "neighbours":[
+
+    ]
+},{
+    "country":"AR",
+    "neighbours":[
+        "BO",
+        "BR",
+        "CL",
+        "PY",
+        "UY"
+    ]
+},{
+    "country":"AS",
+    "neighbours":[
+
+    ]
+},{
+    "country":"AT",
+    "neighbours":[
+        "CZ",
+        "DE",
+        "HU",
+        "IT",
+        "LI",
+        "SK",
+        "SI",
+        "CH"
+    ]
+},{
+    "country":"AU",
+    "neighbours":[
+
+    ]
+},{
+    "country":"AW",
+    "neighbours":[
+
+    ]
+},{
+    "country":"AX",
+    "neighbours":[
+
+    ]
+},{
+    "country":"AZ",
+    "neighbours":[
+        "AM",
+        "GE",
+        "IR",
+        "RU",
+        "TR"
+    ]
+},{
+    "country":"BA",
+    "neighbours":[
+        "HR",
+        "ME",
+        "RS"
+    ]
+},{
+    "country":"BB",
+    "neighbours":[
+
+    ]
+},{
+    "country":"BD",
+    "neighbours":[
+        "IN",
+        "MM"
+    ]
+},{
+    "country":"BE",
+    "neighbours":[
+        "FR",
+        "DE",
+        "LU",
+        "NL"
+    ]
+},{
+    "country":"BF",
+    "neighbours":[
+        "BJ",
+        "GH",
+        "CI",
+        "ML",
+        "NE",
+        "TG"
+    ]
+},{
+    "country":"BG",
+    "neighbours":[
+        "GR",
+        "MK",
+        "RO",
+        "RS",
+        "TR"
+    ]
+},{
+    "country":"BH",
+    "neighbours":[
+
+    ]
+},{
+    "country":"BI",
+    "neighbours":[
+        "CD",
+        "RW",
+        "TZ"
+    ]
+},{
+    "country":"BJ",
+    "neighbours":[
+        "BF",
+        "NE",
+        "NG",
+        "TG"
+    ]
+},{
+    "country":"BL",
+    "neighbours":[
+
+    ]
+},{
+    "country":"BM",
+    "neighbours":[
+
+    ]
+},{
+    "country":"BN",
+    "neighbours":[
+        "MY"
+    ]
+},{
+    "country":"BO",
+    "neighbours":[
+        "AR",
+        "BR",
+        "CL",
+        "PY",
+        "PE"
+    ]
+},{
+    "country":"BQ",
+    "neighbours":[
+
+    ]
+},{
+    "country":"BR",
+    "neighbours":[
+        "AR",
+        "BO",
+        "CO",
+        "GF",
+        "GY",
+        "PY",
+        "PE",
+        "SR",
+        "UY",
+        "VE"
+    ]
+},{
+    "country":"BS",
+    "neighbours":[
+
+    ]
+},{
+    "country":"BT",
+    "neighbours":[
+        "CN",
+        "IN"
+    ]
+},{
+    "country":"BV",
+    "neighbours":[
+
+    ]
+},{
+    "country":"BW",
+    "neighbours":[
+        "NA",
+        "ZA",
+        "ZW"
+    ]
+},{
+    "country":"BY",
+    "neighbours":[
+        "LV",
+        "LT",
+        "PL",
+        "RU",
+        "UA"
+    ]
+},{
+    "country":"BZ",
+    "neighbours":[
+        "GT",
+        "MX"
+    ]
+},{
+    "country":"CA",
+    "neighbours":[
+        "US"
+    ]
+},{
+    "country":"CC",
+    "neighbours":[
+
+    ]
+},{
+    "country":"CD",
+    "neighbours":[
+        "AO",
+        "BI",
+        "CF",
+        "CG",
+        "RW",
+        "SS",
+        "TZ",
+        "UG",
+        "ZM"
+    ]
+},{
+    "country":"CF",
+    "neighbours":[
+        "CM",
+        "TD",
+        "CD",
+        "CG",
+        "SS",
+        "SD"
+    ]
+},{
+    "country":"CG",
+    "neighbours":[
+        "AO",
+        "CM",
+        "CF",
+        "CD",
+        "GA"
+    ]
+},{
+    "country":"CH",
+    "neighbours":[
+        "AT",
+        "FR",
+        "DE",
+        "IT",
+        "LI"
+    ]
+},{
+    "country":"CI",
+    "neighbours":[
+        "BF",
+        "GH",
+        "GN",
+        "LR",
+        "ML"
+    ]
+},{
+    "country":"CK",
+    "neighbours":[
+
+    ]
+},{
+    "country":"CL",
+    "neighbours":[
+        "AR",
+        "BO",
+        "PE"
+    ]
+},{
+    "country":"CM",
+    "neighbours":[
+        "CF",
+        "TD",
+        "GQ",
+        "GA",
+        "NG",
+        "CG"
+    ]
+},{
+    "country":"CN",
+    "neighbours":[
+        "AF",
+        "BT",
+        "IN",
+        "KZ",
+        "KG",
+        "LA",
+        "MN",
+        "MM",
+        "NP",
+        "KP",
+        "PK",
+        "RU",
+        "TJ",
+        "VN"
+    ]
+},{
+    "country":"CO",
+    "neighbours":[
+        "BR",
+        "EC",
+        "PA",
+        "PE",
+        "VE"
+    ]
+},{
+    "country":"CR",
+    "neighbours":[
+        "NI",
+        "PA"
+    ]
+},{
+    "country":"CU",
+    "neighbours":[
+        "US"
+    ]
+},{
+    "country":"CV",
+    "neighbours":[
+
+    ]
+},{
+    "country":"CW",
+    "neighbours":[
+
+    ]
+},{
+    "country":"CX",
+    "neighbours":[
+
+    ]
+},{
+    "country":"CY",
+    "neighbours":[
+
+    ]
+},{
+    "country":"CZ",
+    "neighbours":[
+        "AT",
+        "DE",
+        "PL",
+        "SK"
+    ]
+},{
+    "country":"DE",
+    "neighbours":[
+        "AT",
+        "BE",
+        "CZ",
+        "DK",
+        "FR",
+        "LU",
+        "NL",
+        "PL",
+        "CH"
+    ]
+},{
+    "country":"DJ",
+    "neighbours":[
+        "ER",
+        "ET",
+        "SO"
+    ]
+},{
+    "country":"DK",
+    "neighbours":[
+        "DE"
+    ]
+},{
+    "country":"DM",
+    "neighbours":[
+
+    ]
+},{
+    "country":"DO",
+    "neighbours":[
+        "HT"
+    ]
+},{
+    "country":"DZ",
+    "neighbours":[
+        "LY",
+        "ML",
+        "MR",
+        "MA",
+        "NE",
+        "TN",
+        "EH"
+    ]
+},{
+    "country":"EC",
+    "neighbours":[
+        "CO",
+        "PE"
+    ]
+},{
+    "country":"EE",
+    "neighbours":[
+        "LV",
+        "RU"
+    ]
+},{
+    "country":"EG",
+    "neighbours":[
+        "IL",
+        "LY",
+        "SD"
+    ]
+},{
+    "country":"EH",
+    "neighbours":[
+
+    ]
+},{
+    "country":"ER",
+    "neighbours":[
+        "DJ",
+        "ET",
+        "SD"
+    ]
+},{
+    "country":"ES",
+    "neighbours":[
+        "AD",
+        "FR",
+        "GI",
+        "MA",
+        "PT"
+    ]
+},{
+    "country":"ET",
+    "neighbours":[
+        "DJ",
+        "ER",
+        "KE",
+        "SO",
+        "SS",
+        "SD"
+    ]
+},{
+    "country":"FI",
+    "neighbours":[
+        "NO",
+        "RU",
+        "SE"
+    ]
+},{
+    "country":"FJ",
+    "neighbours":[
+
+    ]
+},{
+    "country":"FK",
+    "neighbours":[
+
+    ]
+},{
+    "country":"FM",
+    "neighbours":[
+
+    ]
+},{
+    "country":"FO",
+    "neighbours":[
+
+    ]
+},{
+    "country":"FR",
+    "neighbours":[
+        "AD",
+        "BE",
+        "DE",
+        "IT",
+        "LU",
+        "MC",
+        "ES",
+        "CH"
+    ]
+},{
+    "country":"GA",
+    "neighbours":[
+        "CM",
+        "GQ",
+        "CG"
+    ]
+},{
+    "country":"GB",
+    "neighbours":[
+        "IE"
+    ]
+},{
+    "country":"GD",
+    "neighbours":[
+
+    ]
+},{
+    "country":"GE",
+    "neighbours":[
+        "AM",
+        "AZ",
+        "RU",
+        "TR"
+    ]
+},{
+    "country":"GF",
+    "neighbours":[
+        "BR",
+        "SR"
+    ]
+},{
+    "country":"GG",
+    "neighbours":[
+
+    ]
+},{
+    "country":"GH",
+    "neighbours":[
+        "BF",
+        "CI",
+        "TG"
+    ]
+},{
+    "country":"GI",
+    "neighbours":[
+        "ES"
+    ]
+},{
+    "country":"GL",
+    "neighbours":[
+
+    ]
+},{
+    "country":"GM",
+    "neighbours":[
+        "SN"
+    ]
+},{
+    "country":"GN",
+    "neighbours":[
+        "GW",
+        "CI",
+        "LR",
+        "ML",
+        "SN",
+        "SL"
+    ]
+},{
+    "country":"GP",
+    "neighbours":[
+
+    ]
+},{
+    "country":"GQ",
+    "neighbours":[
+        "CM",
+        "GA"
+    ]
+},{
+    "country":"GR",
+    "neighbours":[
+        "AL",
+        "BG",
+        "MK",
+        "TR"
+    ]
+},{
+    "country":"GS",
+    "neighbours":[
+
+    ]
+},{
+    "country":"GT",
+    "neighbours":[
+        "BZ",
+        "SV",
+        "HN",
+        "MX"
+    ]
+},{
+    "country":"GU",
+    "neighbours":[
+
+    ]
+},{
+    "country":"GW",
+    "neighbours":[
+        "GN",
+        "SN"
+    ]
+},{
+    "country":"GY",
+    "neighbours":[
+        "BR",
+        "SR",
+        "VE"
+    ]
+},{
+    "country":"HK",
+    "neighbours":[
+
+    ]
+},{
+    "country":"HM",
+    "neighbours":[
+
+    ]
+},{
+    "country":"HN",
+    "neighbours":[
+        "SV",
+        "GT",
+        "NI"
+    ]
+},{
+    "country":"HR",
+    "neighbours":[
+        "BA",
+        "HU",
+        "ME",
+        "RS",
+        "SI"
+    ]
+},{
+    "country":"HT",
+    "neighbours":[
+        "DO"
+    ]
+},{
+    "country":"HU",
+    "neighbours":[
+        "AT",
+        "HR",
+        "RO",
+        "RS",
+        "SK",
+        "SI",
+        "UA"
+    ]
+},{
+    "country":"ID",
+    "neighbours":[
+        "TL",
+        "MY",
+        "PG"
+    ]
+},{
+    "country":"IE",
+    "neighbours":[
+        "GB"
+    ]
+},{
+    "country":"IL",
+    "neighbours":[
+        "EG",
+        "JO",
+        "LB",
+        "PS",
+        "SY"
+    ]
+},{
+    "country":"IM",
+    "neighbours":[
+
+    ]
+},{
+    "country":"IN",
+    "neighbours":[
+        "BD",
+        "BT",
+        "CN",
+        "MM",
+        "NP",
+        "PK"
+    ]
+},{
+    "country":"IO",
+    "neighbours":[
+
+    ]
+},{
+    "country":"IQ",
+    "neighbours":[
+        "IR",
+        "JO",
+        "KW",
+        "SA",
+        "SY",
+        "TR"
+    ]
+},{
+    "country":"IR",
+    "neighbours":[
+        "AF",
+        "AM",
+        "AZ",
+        "IQ",
+        "PK",
+        "TR",
+        "TM"
+    ]
+},{
+    "country":"IS",
+    "neighbours":[
+
+    ]
+},{
+    "country":"IT",
+    "neighbours":[
+        "AT",
+        "FR",
+        "SM",
+        "SI",
+        "CH",
+        "VA"
+    ]
+},{
+    "country":"JE",
+    "neighbours":[
+
+    ]
+},{
+    "country":"JM",
+    "neighbours":[
+
+    ]
+},{
+    "country":"JO",
+    "neighbours":[
+        "IQ",
+        "IL",
+        "PS",
+        "SA",
+        "SY"
+    ]
+},{
+    "country":"JP",
+    "neighbours":[
+
+    ]
+},{
+    "country":"KE",
+    "neighbours":[
+        "ET",
+        "SO",
+        "SS",
+        "TZ",
+        "UG"
+    ]
+},{
+    "country":"KG",
+    "neighbours":[
+        "CN",
+        "KZ",
+        "TJ",
+        "UZ"
+    ]
+},{
+    "country":"KH",
+    "neighbours":[
+        "LA",
+        "TH",
+        "VN"
+    ]
+},{
+    "country":"KI",
+    "neighbours":[
+
+    ]
+},{
+    "country":"KM",
+    "neighbours":[
+
+    ]
+},{
+    "country":"KN",
+    "neighbours":[
+
+    ]
+},{
+    "country":"KP",
+    "neighbours":[
+        "CN",
+        "RU",
+        "KR"
+    ]
+},{
+    "country":"KR",
+    "neighbours":[
+        "KP"
+    ]
+},{
+    "country":"KW",
+    "neighbours":[
+        "IQ",
+        "SA"
+    ]
+},{
+    "country":"KY",
+    "neighbours":[
+
+    ]
+},{
+    "country":"KZ",
+    "neighbours":[
+        "CN",
+        "KG",
+        "RU",
+        "TM",
+        "UZ"
+    ]
+},{
+    "country":"LA",
+    "neighbours":[
+        "KH",
+        "CN",
+        "MM",
+        "TH",
+        "VN"
+    ]
+},{
+    "country":"LB",
+    "neighbours":[
+        "IL",
+        "SY"
+    ]
+},{
+    "country":"LC",
+    "neighbours":[
+
+    ]
+},{
+    "country":"LI",
+    "neighbours":[
+        "AT",
+        "CH"
+    ]
+},{
+    "country":"LK",
+    "neighbours":[
+
+    ]
+},{
+    "country":"LR",
+    "neighbours":[
+        "GN",
+        "CI",
+        "SL"
+    ]
+},{
+    "country":"LS",
+    "neighbours":[
+        "ZA"
+    ]
+},{
+    "country":"LT",
+    "neighbours":[
+        "BY",
+        "LV",
+        "PL",
+        "RU"
+    ]
+},{
+    "country":"LU",
+    "neighbours":[
+        "BE",
+        "FR",
+        "DE"
+    ]
+},{
+    "country":"LV",
+    "neighbours":[
+        "BY",
+        "EE",
+        "LT",
+        "RU"
+    ]
+},{
+    "country":"LY",
+    "neighbours":[
+        "DZ",
+        "TD",
+        "EG",
+        "NE",
+        "SD",
+        "TN"
+    ]
+},{
+    "country":"MA",
+    "neighbours":[
+        "DZ",
+        "ES",
+        "EH"
+    ]
+},{
+    "country":"MC",
+    "neighbours":[
+        "FR"
+    ]
+},{
+    "country":"MD",
+    "neighbours":[
+        "RO",
+        "UA"
+    ]
+},{
+    "country":"ME",
+    "neighbours":[
+        "AL",
+        "BA",
+        "HR",
+        "XK",
+        "RS"
+    ]
+},{
+    "country":"MF",
+    "neighbours":[
+        "SX"
+    ]
+},{
+    "country":"MG",
+    "neighbours":[
+
+    ]
+},{
+    "country":"MH",
+    "neighbours":[
+
+    ]
+},{
+    "country":"MK",
+    "neighbours":[
+        "AL",
+        "BG",
+        "GR",
+        "XK",
+        "RS"
+    ]
+},{
+    "country":"ML",
+    "neighbours":[
+        "DZ",
+        "BF",
+        "GN",
+        "CI",
+        "MR",
+        "NE",
+        "SN"
+    ]
+},{
+    "country":"MM",
+    "neighbours":[
+        "BD",
+        "CN",
+        "IN",
+        "LA",
+        "TH"
+    ]
+},{
+    "country":"MN",
+    "neighbours":[
+        "CN",
+        "RU"
+    ]
+},{
+    "country":"MO",
+    "neighbours":[
+
+    ]
+},{
+    "country":"MP",
+    "neighbours":[
+
+    ]
+},{
+    "country":"MQ",
+    "neighbours":[
+
+    ]
+},{
+    "country":"MR",
+    "neighbours":[
+        "DZ",
+        "ML",
+        "SN",
+        "EH"
+    ]
+},{
+    "country":"MS",
+    "neighbours":[
+
+    ]
+},{
+    "country":"MT",
+    "neighbours":[
+
+    ]
+},{
+    "country":"MU",
+    "neighbours":[
+
+    ]
+},{
+    "country":"MV",
+    "neighbours":[
+
+    ]
+},{
+    "country":"MW",
+    "neighbours":[
+        "MZ",
+        "TZ",
+        "ZM"
+    ]
+},{
+    "country":"MX",
+    "neighbours":[
+        "BZ",
+        "GT",
+        "US"
+    ]
+},{
+    "country":"MY",
+    "neighbours":[
+        "BN",
+        "ID",
+        "TH"
+    ]
+},{
+    "country":"MZ",
+    "neighbours":[
+        "MW",
+        "ZA",
+        "SZ",
+        "TZ",
+        "ZM",
+        "ZW"
+    ]
+},{
+    "country":"NA",
+    "neighbours":[
+        "AO",
+        "BW",
+        "ZA",
+        "ZM"
+    ]
+},{
+    "country":"NC",
+    "neighbours":[
+
+    ]
+},{
+    "country":"NE",
+    "neighbours":[
+        "DZ",
+        "BJ",
+        "BF",
+        "TD",
+        "LY",
+        "ML",
+        "NG"
+    ]
+},{
+    "country":"NF",
+    "neighbours":[
+
+    ]
+},{
+    "country":"NG",
+    "neighbours":[
+        "BJ",
+        "CM",
+        "TD",
+        "NE"
+    ]
+},{
+    "country":"NI",
+    "neighbours":[
+        "CR",
+        "HN"
+    ]
+},{
+    "country":"NL",
+    "neighbours":[
+        "BE",
+        "DE"
+    ]
+},{
+    "country":"NO",
+    "neighbours":[
+        "FI",
+        "RU",
+        "SE"
+    ]
+},{
+    "country":"NP",
+    "neighbours":[
+        "CN",
+        "IN"
+    ]
+},{
+    "country":"NR",
+    "neighbours":[
+
+    ]
+},{
+    "country":"NU",
+    "neighbours":[
+
+    ]
+},{
+    "country":"NZ",
+    "neighbours":[
+
+    ]
+},{
+    "country":"OM",
+    "neighbours":[
+        "SA",
+        "AE",
+        "YE"
+    ]
+},{
+    "country":"PA",
+    "neighbours":[
+        "CO",
+        "CR"
+    ]
+},{
+    "country":"PE",
+    "neighbours":[
+        "BO",
+        "BR",
+        "CL",
+        "CO",
+        "EC"
+    ]
+},{
+    "country":"PF",
+    "neighbours":[
+
+    ]
+},{
+    "country":"PG",
+    "neighbours":[
+        "ID"
+    ]
+},{
+    "country":"PH",
+    "neighbours":[
+
+    ]
+},{
+    "country":"PK",
+    "neighbours":[
+        "AF",
+        "CN",
+        "IN",
+        "IR"
+    ]
+},{
+    "country":"PL",
+    "neighbours":[
+        "BY",
+        "CZ",
+        "DE",
+        "LT",
+        "RU",
+        "SK",
+        "UA"
+    ]
+},{
+    "country":"PM",
+    "neighbours":[
+
+    ]
+},{
+    "country":"PN",
+    "neighbours":[
+
+    ]
+},{
+    "country":"PR",
+    "neighbours":[
+
+    ]
+},{
+    "country":"PS",
+    "neighbours":[
+        "IL",
+        "JO"
+    ]
+},{
+    "country":"PT",
+    "neighbours":[
+        "ES"
+    ]
+},{
+    "country":"PW",
+    "neighbours":[
+
+    ]
+},{
+    "country":"PY",
+    "neighbours":[
+        "AR",
+        "BO",
+        "BR"
+    ]
+},{
+    "country":"QA",
+    "neighbours":[
+        "SA"
+    ]
+},{
+    "country":"RE",
+    "neighbours":[
+
+    ]
+},{
+    "country":"RO",
+    "neighbours":[
+        "BG",
+        "HU",
+        "MD",
+        "RS",
+        "UA"
+    ]
+},{
+    "country":"RS",
+    "neighbours":[
+        "AL",
+        "BA",
+        "BG",
+        "HR",
+        "HU",
+        "XK",
+        "MK",
+        "ME",
+        "RO"
+    ]
+},{
+    "country":"RU",
+    "neighbours":[
+        "AZ",
+        "BY",
+        "CN",
+        "EE",
+        "FI",
+        "GE",
+        "KZ",
+        "LV",
+        "LT",
+        "MN",
+        "KP",
+        "NO",
+        "PL",
+        "UA"
+    ]
+},{
+    "country":"RW",
+    "neighbours":[
+        "BI",
+        "CD",
+        "TZ",
+        "UG"
+    ]
+},{
+    "country":"SA",
+    "neighbours":[
+        "IQ",
+        "JO",
+        "KW",
+        "OM",
+        "QA",
+        "AE",
+        "YE"
+    ]
+},{
+    "country":"SB",
+    "neighbours":[
+
+    ]
+},{
+    "country":"SC",
+    "neighbours":[
+
+    ]
+},{
+    "country":"SD",
+    "neighbours":[
+        "CF",
+        "TD",
+        "EG",
+        "ER",
+        "ET",
+        "LY",
+        "SS"
+    ]
+},{
+    "country":"SE",
+    "neighbours":[
+        "FI",
+        "NO"
+    ]
+},{
+    "country":"SG",
+    "neighbours":[
+
+    ]
+},{
+    "country":"SH",
+    "neighbours":[
+
+    ]
+},{
+    "country":"SI",
+    "neighbours":[
+        "AT",
+        "HR",
+        "HU",
+        "IT"
+    ]
+},{
+    "country":"SJ",
+    "neighbours":[
+
+    ]
+},{
+    "country":"SK",
+    "neighbours":[
+        "AT",
+        "CZ",
+        "HU",
+        "PL",
+        "UA"
+    ]
+},{
+    "country":"SL",
+    "neighbours":[
+        "GN",
+        "LR"
+    ]
+},{
+    "country":"SM",
+    "neighbours":[
+        "IT"
+    ]
+},{
+    "country":"SN",
+    "neighbours":[
+        "GM",
+        "GN",
+        "GW",
+        "ML",
+        "MR"
+    ]
+},{
+    "country":"SO",
+    "neighbours":[
+        "DJ",
+        "ET",
+        "KE"
+    ]
+},{
+    "country":"SR",
+    "neighbours":[
+        "BR",
+        "GF",
+        "GY"
+    ]
+},{
+    "country":"SS",
+    "neighbours":[
+        "CF",
+        "CD",
+        "ET",
+        "KE",
+        "SD",
+        "UG"
+    ]
+},{
+    "country":"ST",
+    "neighbours":[
+
+    ]
+},{
+    "country":"SV",
+    "neighbours":[
+        "GT",
+        "HN"
+    ]
+},{
+    "country":"SX",
+    "neighbours":[
+        "MF"
+    ]
+},{
+    "country":"SY",
+    "neighbours":[
+        "IQ",
+        "IL",
+        "JO",
+        "LB",
+        "TR"
+    ]
+},{
+    "country":"SZ",
+    "neighbours":[
+        "MZ",
+        "ZA"
+    ]
+},{
+    "country":"TC",
+    "neighbours":[
+
+    ]
+},{
+    "country":"TD",
+    "neighbours":[
+        "CM",
+        "CF",
+        "LY",
+        "NE",
+        "NG",
+        "SD"
+    ]
+},{
+    "country":"TF",
+    "neighbours":[
+
+    ]
+},{
+    "country":"TG",
+    "neighbours":[
+        "BJ",
+        "BF",
+        "GH"
+    ]
+},{
+    "country":"TH",
+    "neighbours":[
+        "KH",
+        "LA",
+        "MY",
+        "MM"
+    ]
+},{
+    "country":"TJ",
+    "neighbours":[
+        "AF",
+        "CN",
+        "KG",
+        "UZ"
+    ]
+},{
+    "country":"TK",
+    "neighbours":[
+
+    ]
+},{
+    "country":"TL",
+    "neighbours":[
+        "ID"
+    ]
+},{
+    "country":"TM",
+    "neighbours":[
+        "AF",
+        "IR",
+        "KZ",
+        "UZ"
+    ]
+},{
+    "country":"TN",
+    "neighbours":[
+        "DZ",
+        "LY"
+    ]
+},{
+    "country":"TO",
+    "neighbours":[
+
+    ]
+},{
+    "country":"TR",
+    "neighbours":[
+        "AM",
+        "AZ",
+        "BG",
+        "GE",
+        "GR",
+        "IR",
+        "IQ",
+        "SY"
+    ]
+},{
+    "country":"TT",
+    "neighbours":[
+
+    ]
+},{
+    "country":"TV",
+    "neighbours":[
+
+    ]
+},{
+    "country":"TW",
+    "neighbours":[
+
+    ]
+},{
+    "country":"TZ",
+    "neighbours":[
+        "BI",
+        "CD",
+        "KE",
+        "MW",
+        "MZ",
+        "RW",
+        "UG",
+        "ZM"
+    ]
+},{
+    "country":"UA",
+    "neighbours":[
+        "BY",
+        "HU",
+        "MD",
+        "PL",
+        "RO",
+        "RU",
+        "SK"
+    ]
+},{
+    "country":"UG",
+    "neighbours":[
+        "CD",
+        "KE",
+        "RW",
+        "SS",
+        "TZ"
+    ]
+},{
+    "country":"UM",
+    "neighbours":[
+
+    ]
+},{
+    "country":"US",
+    "neighbours":[
+        "CA",
+        "CU",
+        "MX"
+    ]
+},{
+    "country":"UY",
+    "neighbours":[
+        "AR",
+        "BR"
+    ]
+},{
+    "country":"UZ",
+    "neighbours":[
+        "AF",
+        "KZ",
+        "KG",
+        "TJ",
+        "TM"
+    ]
+},{
+    "country":"VA",
+    "neighbours":[
+        "IT"
+    ]
+},{
+    "country":"VC",
+    "neighbours":[
+
+    ]
+},{
+    "country":"VE",
+    "neighbours":[
+        "BR",
+        "CO",
+        "GY"
+    ]
+},{
+    "country":"VG",
+    "neighbours":[
+
+    ]
+},{
+    "country":"VI",
+    "neighbours":[
+
+    ]
+},{
+    "country":"VN",
+    "neighbours":[
+        "KH",
+        "CN",
+        "LA"
+    ]
+},{
+    "country":"VU",
+    "neighbours":[
+
+    ]
+},{
+    "country":"WF",
+    "neighbours":[
+
+    ]
+},{
+    "country":"WS",
+    "neighbours":[
+
+    ]
+},{
+    "country":"XK",
+    "neighbours":[
+        "AL",
+        "MK",
+        "ME",
+        "RS"
+    ]
+},{
+    "country":"YE",
+    "neighbours":[
+        "OM",
+        "SA"
+    ]
+},{
+    "country":"YT",
+    "neighbours":[
+
+    ]
+},{
+    "country":"ZA",
+    "neighbours":[
+        "BW",
+        "LS",
+        "MZ",
+        "NA",
+        "SZ",
+        "ZW"
+    ]
+},{
+    "country":"ZM",
+    "neighbours":[
+        "AO",
+        "CD",
+        "MW",
+        "MZ",
+        "NA",
+        "TZ",
+        "ZW"
+    ]
+},{
+    "country":"ZW",
+    "neighbours":[
+        "BW",
+        "MZ",
+        "ZA",
+        "ZM"
+    ]
+}
+]}
