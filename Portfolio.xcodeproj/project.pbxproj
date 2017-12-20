@@ -35,6 +35,41 @@
 		1678EA191FE9BE9E00CBB5FF /* HouseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678EA151FE9BE9E00CBB5FF /* HouseTableViewCell.swift */; };
 		1678EA1A1FE9BE9E00CBB5FF /* HouseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1678EA161FE9BE9E00CBB5FF /* HouseTableViewController.swift */; };
 		1678EA1F1FE9BF7300CBB5FF /* HappyHalloween.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1678EA1D1FE9BF7300CBB5FF /* HappyHalloween.storyboard */; };
+		16E2195B1FEAC99500DB550F /* Reports.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16E219591FEAC99400DB550F /* Reports.storyboard */; };
+		16E2195C1FEAC99500DB550F /* College.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16E2195A1FEAC99500DB550F /* College.storyboard */; };
+		16E219621FEAC9A100DB550F /* InstructorWeekdayClassesCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2195D1FEAC9A000DB550F /* InstructorWeekdayClassesCell.swift */; };
+		16E219631FEAC9A100DB550F /* ProgramStudentAverageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2195E1FEAC9A000DB550F /* ProgramStudentAverageCell.swift */; };
+		16E219641FEAC9A100DB550F /* InstructorClassAverageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2195F1FEAC9A000DB550F /* InstructorClassAverageCell.swift */; };
+		16E219651FEAC9A100DB550F /* CountryStudentsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219601FEAC9A000DB550F /* CountryStudentsCell.swift */; };
+		16E219661FEAC9A100DB550F /* CoursesAverageGradeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219611FEAC9A100DB550F /* CoursesAverageGradeCell.swift */; };
+		16E2196C1FEAC9B000DB550F /* ProgramStudentAverageTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219671FEAC9B000DB550F /* ProgramStudentAverageTable.swift */; };
+		16E2196D1FEAC9B000DB550F /* InstructorWeekdayClassesTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219681FEAC9B000DB550F /* InstructorWeekdayClassesTable.swift */; };
+		16E2196E1FEAC9B000DB550F /* CoursesAverageGradeTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219691FEAC9B000DB550F /* CoursesAverageGradeTable.swift */; };
+		16E2196F1FEAC9B000DB550F /* CountryStudentsTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2196A1FEAC9B000DB550F /* CountryStudentsTable.swift */; };
+		16E219701FEAC9B000DB550F /* InstructorClassAverageTable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2196B1FEAC9B000DB550F /* InstructorClassAverageTable.swift */; };
+		16E219781FEAC9BB00DB550F /* InstructorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219711FEAC9BA00DB550F /* InstructorViewController.swift */; };
+		16E219791FEAC9BB00DB550F /* CourseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219721FEAC9BA00DB550F /* CourseViewController.swift */; };
+		16E2197A1FEAC9BB00DB550F /* ProgramViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219731FEAC9BA00DB550F /* ProgramViewController.swift */; };
+		16E2197B1FEAC9BB00DB550F /* ReportsPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219741FEAC9BA00DB550F /* ReportsPageViewController.swift */; };
+		16E2197C1FEAC9BB00DB550F /* StudentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219751FEAC9BA00DB550F /* StudentViewController.swift */; };
+		16E2197D1FEAC9BB00DB550F /* DepartmentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219761FEAC9BA00DB550F /* DepartmentViewController.swift */; };
+		16E2197E1FEAC9BB00DB550F /* CollegeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219771FEAC9BB00DB550F /* CollegeViewController.swift */; };
+		16E2198F1FEACA0000DB550F /* Classe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2197F1FEAC9FE00DB550F /* Classe.swift */; };
+		16E219901FEACA0000DB550F /* Status.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219801FEAC9FF00DB550F /* Status.swift */; };
+		16E219911FEACA0000DB550F /* CountryEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219811FEAC9FF00DB550F /* CountryEnum.swift */; };
+		16E219921FEACA0000DB550F /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219821FEAC9FF00DB550F /* Util.swift */; };
+		16E219931FEACA0000DB550F /* DepartmentEmployee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219831FEAC9FF00DB550F /* DepartmentEmployee.swift */; };
+		16E219941FEACA0000DB550F /* StudentClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219841FEAC9FF00DB550F /* StudentClass.swift */; };
+		16E219951FEACA0000DB550F /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219851FEAC9FF00DB550F /* Employee.swift */; };
+		16E219961FEACA0000DB550F /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219861FEAC9FF00DB550F /* Student.swift */; };
+		16E219971FEACA0000DB550F /* GradeAux.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219871FEAC9FF00DB550F /* GradeAux.swift */; };
+		16E219981FEACA0000DB550F /* CollegeReports.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219881FEAC9FF00DB550F /* CollegeReports.swift */; };
+		16E219991FEACA0000DB550F /* Course.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E219891FEAC9FF00DB550F /* Course.swift */; };
+		16E2199A1FEACA0000DB550F /* College.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2198A1FEAC9FF00DB550F /* College.swift */; };
+		16E2199B1FEACA0000DB550F /* Department.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2198B1FEAC9FF00DB550F /* Department.swift */; };
+		16E2199C1FEACA0000DB550F /* Schedule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2198C1FEAC9FF00DB550F /* Schedule.swift */; };
+		16E2199D1FEACA0000DB550F /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2198D1FEACA0000DB550F /* Function.swift */; };
+		16E2199E1FEACA0000DB550F /* Program.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16E2198E1FEACA0000DB550F /* Program.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +124,41 @@
 		1678EA151FE9BE9E00CBB5FF /* HouseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HouseTableViewCell.swift; sourceTree = "<group>"; };
 		1678EA161FE9BE9E00CBB5FF /* HouseTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HouseTableViewController.swift; sourceTree = "<group>"; };
 		1678EA1E1FE9BF7300CBB5FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/HappyHalloween.storyboard; sourceTree = "<group>"; };
+		16E219591FEAC99400DB550F /* Reports.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Reports.storyboard; sourceTree = "<group>"; };
+		16E2195A1FEAC99500DB550F /* College.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = College.storyboard; sourceTree = "<group>"; };
+		16E2195D1FEAC9A000DB550F /* InstructorWeekdayClassesCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructorWeekdayClassesCell.swift; sourceTree = "<group>"; };
+		16E2195E1FEAC9A000DB550F /* ProgramStudentAverageCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgramStudentAverageCell.swift; sourceTree = "<group>"; };
+		16E2195F1FEAC9A000DB550F /* InstructorClassAverageCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructorClassAverageCell.swift; sourceTree = "<group>"; };
+		16E219601FEAC9A000DB550F /* CountryStudentsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryStudentsCell.swift; sourceTree = "<group>"; };
+		16E219611FEAC9A100DB550F /* CoursesAverageGradeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoursesAverageGradeCell.swift; sourceTree = "<group>"; };
+		16E219671FEAC9B000DB550F /* ProgramStudentAverageTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgramStudentAverageTable.swift; sourceTree = "<group>"; };
+		16E219681FEAC9B000DB550F /* InstructorWeekdayClassesTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructorWeekdayClassesTable.swift; sourceTree = "<group>"; };
+		16E219691FEAC9B000DB550F /* CoursesAverageGradeTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoursesAverageGradeTable.swift; sourceTree = "<group>"; };
+		16E2196A1FEAC9B000DB550F /* CountryStudentsTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryStudentsTable.swift; sourceTree = "<group>"; };
+		16E2196B1FEAC9B000DB550F /* InstructorClassAverageTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructorClassAverageTable.swift; sourceTree = "<group>"; };
+		16E219711FEAC9BA00DB550F /* InstructorViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InstructorViewController.swift; sourceTree = "<group>"; };
+		16E219721FEAC9BA00DB550F /* CourseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CourseViewController.swift; sourceTree = "<group>"; };
+		16E219731FEAC9BA00DB550F /* ProgramViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgramViewController.swift; sourceTree = "<group>"; };
+		16E219741FEAC9BA00DB550F /* ReportsPageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReportsPageViewController.swift; sourceTree = "<group>"; };
+		16E219751FEAC9BA00DB550F /* StudentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentViewController.swift; sourceTree = "<group>"; };
+		16E219761FEAC9BA00DB550F /* DepartmentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DepartmentViewController.swift; sourceTree = "<group>"; };
+		16E219771FEAC9BB00DB550F /* CollegeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollegeViewController.swift; sourceTree = "<group>"; };
+		16E2197F1FEAC9FE00DB550F /* Classe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Classe.swift; sourceTree = "<group>"; };
+		16E219801FEAC9FF00DB550F /* Status.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Status.swift; sourceTree = "<group>"; };
+		16E219811FEAC9FF00DB550F /* CountryEnum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CountryEnum.swift; sourceTree = "<group>"; };
+		16E219821FEAC9FF00DB550F /* Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
+		16E219831FEAC9FF00DB550F /* DepartmentEmployee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DepartmentEmployee.swift; sourceTree = "<group>"; };
+		16E219841FEAC9FF00DB550F /* StudentClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudentClass.swift; sourceTree = "<group>"; };
+		16E219851FEAC9FF00DB550F /* Employee.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
+		16E219861FEAC9FF00DB550F /* Student.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		16E219871FEAC9FF00DB550F /* GradeAux.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradeAux.swift; sourceTree = "<group>"; };
+		16E219881FEAC9FF00DB550F /* CollegeReports.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollegeReports.swift; sourceTree = "<group>"; };
+		16E219891FEAC9FF00DB550F /* Course.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Course.swift; sourceTree = "<group>"; };
+		16E2198A1FEAC9FF00DB550F /* College.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = College.swift; sourceTree = "<group>"; };
+		16E2198B1FEAC9FF00DB550F /* Department.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Department.swift; sourceTree = "<group>"; };
+		16E2198C1FEAC9FF00DB550F /* Schedule.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Schedule.swift; sourceTree = "<group>"; };
+		16E2198D1FEACA0000DB550F /* Function.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
+		16E2198E1FEACA0000DB550F /* Program.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Program.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +209,8 @@
 		163CEA721FE964640040A0FA /* Portfolio */ = {
 			isa = PBXGroup;
 			children = (
+				16E219541FEAC91E00DB550F /* CollegeSystem */,
+				16E219531FEAC91900DB550F /* New Group */,
 				1678EA101FE9BE6100CBB5FF /* HappyHalloween */,
 				1678E9FB1FE9800100CBB5FF /* CountriesAndNeighbours */,
 				1678E9E01FE96B5E00CBB5FF /* ProjectVehicles */,
@@ -268,6 +340,87 @@
 			path = ViewController;
 			sourceTree = "<group>";
 		};
+		16E219531FEAC91900DB550F /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		16E219541FEAC91E00DB550F /* CollegeSystem */ = {
+			isa = PBXGroup;
+			children = (
+				16E2195A1FEAC99500DB550F /* College.storyboard */,
+				16E219591FEAC99400DB550F /* Reports.storyboard */,
+				16E219561FEAC92D00DB550F /* ViewController */,
+				16E219551FEAC92700DB550F /* College */,
+			);
+			path = CollegeSystem;
+			sourceTree = "<group>";
+		};
+		16E219551FEAC92700DB550F /* College */ = {
+			isa = PBXGroup;
+			children = (
+				16E2197F1FEAC9FE00DB550F /* Classe.swift */,
+				16E2198A1FEAC9FF00DB550F /* College.swift */,
+				16E219881FEAC9FF00DB550F /* CollegeReports.swift */,
+				16E219811FEAC9FF00DB550F /* CountryEnum.swift */,
+				16E219891FEAC9FF00DB550F /* Course.swift */,
+				16E2198B1FEAC9FF00DB550F /* Department.swift */,
+				16E219831FEAC9FF00DB550F /* DepartmentEmployee.swift */,
+				16E219851FEAC9FF00DB550F /* Employee.swift */,
+				16E2198D1FEACA0000DB550F /* Function.swift */,
+				16E219871FEAC9FF00DB550F /* GradeAux.swift */,
+				16E2198E1FEACA0000DB550F /* Program.swift */,
+				16E2198C1FEAC9FF00DB550F /* Schedule.swift */,
+				16E219801FEAC9FF00DB550F /* Status.swift */,
+				16E219861FEAC9FF00DB550F /* Student.swift */,
+				16E219841FEAC9FF00DB550F /* StudentClass.swift */,
+				16E219821FEAC9FF00DB550F /* Util.swift */,
+			);
+			path = College;
+			sourceTree = "<group>";
+		};
+		16E219561FEAC92D00DB550F /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				16E219771FEAC9BB00DB550F /* CollegeViewController.swift */,
+				16E219721FEAC9BA00DB550F /* CourseViewController.swift */,
+				16E219761FEAC9BA00DB550F /* DepartmentViewController.swift */,
+				16E219711FEAC9BA00DB550F /* InstructorViewController.swift */,
+				16E219731FEAC9BA00DB550F /* ProgramViewController.swift */,
+				16E219741FEAC9BA00DB550F /* ReportsPageViewController.swift */,
+				16E219751FEAC9BA00DB550F /* StudentViewController.swift */,
+				16E219571FEAC93500DB550F /* TableController */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		16E219571FEAC93500DB550F /* TableController */ = {
+			isa = PBXGroup;
+			children = (
+				16E2196A1FEAC9B000DB550F /* CountryStudentsTable.swift */,
+				16E219691FEAC9B000DB550F /* CoursesAverageGradeTable.swift */,
+				16E2196B1FEAC9B000DB550F /* InstructorClassAverageTable.swift */,
+				16E219681FEAC9B000DB550F /* InstructorWeekdayClassesTable.swift */,
+				16E219671FEAC9B000DB550F /* ProgramStudentAverageTable.swift */,
+				16E219581FEAC93D00DB550F /* TableCell */,
+			);
+			path = TableController;
+			sourceTree = "<group>";
+		};
+		16E219581FEAC93D00DB550F /* TableCell */ = {
+			isa = PBXGroup;
+			children = (
+				16E219601FEAC9A000DB550F /* CountryStudentsCell.swift */,
+				16E219611FEAC9A100DB550F /* CoursesAverageGradeCell.swift */,
+				16E2195F1FEAC9A000DB550F /* InstructorClassAverageCell.swift */,
+				16E2195D1FEAC9A000DB550F /* InstructorWeekdayClassesCell.swift */,
+				16E2195E1FEAC9A000DB550F /* ProgramStudentAverageCell.swift */,
+			);
+			path = TableCell;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -375,6 +528,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				16E2195B1FEAC99500DB550F /* Reports.storyboard in Resources */,
 				163CEA7E1FE964640040A0FA /* LaunchScreen.storyboard in Resources */,
 				1678EA0C1FE99F3000CBB5FF /* Assets in Resources */,
 				1678E9F11FE96D9D00CBB5FF /* Vehicles.storyboard in Resources */,
@@ -382,6 +536,7 @@
 				1678EA0A1FE99A3E00CBB5FF /* Countries.storyboard in Resources */,
 				1678EA1F1FE9BF7300CBB5FF /* HappyHalloween.storyboard in Resources */,
 				163CEA791FE964640040A0FA /* Main.storyboard in Resources */,
+				16E2195C1FEAC99500DB550F /* College.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,23 +562,56 @@
 			buildActionMask = 2147483647;
 			files = (
 				1678E9ED1FE96D4000CBB5FF /* TrucksViewController.swift in Sources */,
+				16E2196E1FEAC9B000DB550F /* CoursesAverageGradeTable.swift in Sources */,
+				16E2197C1FEAC9BB00DB550F /* StudentViewController.swift in Sources */,
+				16E219961FEACA0000DB550F /* Student.swift in Sources */,
 				1678EA1A1FE9BE9E00CBB5FF /* HouseTableViewController.swift in Sources */,
+				16E2199B1FEACA0000DB550F /* Department.swift in Sources */,
+				16E219911FEACA0000DB550F /* CountryEnum.swift in Sources */,
+				16E2197E1FEAC9BB00DB550F /* CollegeViewController.swift in Sources */,
 				1678EA181FE9BE9E00CBB5FF /* House.swift in Sources */,
 				1678E9F61FE9739500CBB5FF /* PortfolioViewController.swift in Sources */,
+				16E219991FEACA0000DB550F /* Course.swift in Sources */,
+				16E219951FEACA0000DB550F /* Employee.swift in Sources */,
+				16E219651FEAC9A100DB550F /* CountryStudentsCell.swift in Sources */,
+				16E219971FEACA0000DB550F /* GradeAux.swift in Sources */,
+				16E219631FEAC9A100DB550F /* ProgramStudentAverageCell.swift in Sources */,
+				16E2196F1FEAC9B000DB550F /* CountryStudentsTable.swift in Sources */,
+				16E2198F1FEACA0000DB550F /* Classe.swift in Sources */,
 				1678E9EB1FE96D4000CBB5FF /* Vehicle.swift in Sources */,
 				1678EA191FE9BE9E00CBB5FF /* HouseTableViewCell.swift in Sources */,
+				16E219621FEAC9A100DB550F /* InstructorWeekdayClassesCell.swift in Sources */,
+				16E219781FEAC9BB00DB550F /* InstructorViewController.swift in Sources */,
 				1678EA041FE999CA00CBB5FF /* DistancesViewController.swift in Sources */,
+				16E2197A1FEAC9BB00DB550F /* ProgramViewController.swift in Sources */,
+				16E219901FEACA0000DB550F /* Status.swift in Sources */,
+				16E2196C1FEAC9B000DB550F /* ProgramStudentAverageTable.swift in Sources */,
+				16E219661FEAC9A100DB550F /* CoursesAverageGradeCell.swift in Sources */,
+				16E219791FEAC9BB00DB550F /* CourseViewController.swift in Sources */,
+				16E2197B1FEAC9BB00DB550F /* ReportsPageViewController.swift in Sources */,
 				1678E9EE1FE96D4000CBB5FF /* VehiclesPageViewController.swift in Sources */,
+				16E219641FEAC9A100DB550F /* InstructorClassAverageCell.swift in Sources */,
 				1678EA031FE999CA00CBB5FF /* CountriesViewController.swift in Sources */,
+				16E2196D1FEAC9B000DB550F /* InstructorWeekdayClassesTable.swift in Sources */,
+				16E219921FEACA0000DB550F /* Util.swift in Sources */,
 				1678EA171FE9BE9E00CBB5FF /* HalloweenViewController.swift in Sources */,
 				1678E9E91FE96D4000CBB5FF /* VehiclesViewController.swift in Sources */,
+				16E2197D1FEAC9BB00DB550F /* DepartmentViewController.swift in Sources */,
+				16E2199E1FEACA0000DB550F /* Program.swift in Sources */,
+				16E2199A1FEACA0000DB550F /* College.swift in Sources */,
+				16E219701FEAC9B000DB550F /* InstructorClassAverageTable.swift in Sources */,
+				16E2199C1FEACA0000DB550F /* Schedule.swift in Sources */,
+				16E219981FEACA0000DB550F /* CollegeReports.swift in Sources */,
+				16E219941FEACA0000DB550F /* StudentClass.swift in Sources */,
 				1678EA051FE999CA00CBB5FF /* DistanceTableViewCell.swift in Sources */,
 				1678E9EA1FE96D4000CBB5FF /* Car.swift in Sources */,
 				1678E9F81FE9747300CBB5FF /* LabelTableViewCell.swift in Sources */,
 				1678EA011FE999CA00CBB5FF /* Country.swift in Sources */,
+				16E2199D1FEACA0000DB550F /* Function.swift in Sources */,
 				163CEA741FE964640040A0FA /* AppDelegate.swift in Sources */,
 				1678E9E81FE96D4000CBB5FF /* Truck.swift in Sources */,
 				1678EA021FE999CA00CBB5FF /* CustomPointAnnotation.swift in Sources */,
+				16E219931FEACA0000DB550F /* DepartmentEmployee.swift in Sources */,
 				1678E9EC1FE96D4000CBB5FF /* CarsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

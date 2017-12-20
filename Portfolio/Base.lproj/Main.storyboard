@@ -53,6 +53,7 @@
                         <segue destination="qkC-sG-qEz" kind="show" identifier="showProjectVehicles" id="Z3S-SC-9iU"/>
                         <segue destination="aHQ-1P-MYe" kind="show" identifier="showCountriesAndNeighbours" id="BBm-RJ-Gex"/>
                         <segue destination="DSt-Ih-aPs" kind="show" identifier="showHappyHalloween" id="lTG-01-IfE"/>
+                        <segue destination="fq7-nS-g4z" kind="show" identifier="showCollegeSystem" id="Nsu-MC-i03"/>
                     </connections>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="CHE-3x-5Zx" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -81,7 +82,15 @@
                 <viewControllerPlaceholder storyboardName="HappyHalloween" id="DSt-Ih-aPs" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="FHc-17-4s8" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1554" y="285"/>
+            <point key="canvasLocation" x="1554" y="264"/>
+        </scene>
+        <!--College-->
+        <scene sceneID="vLv-sN-Qwf">
+            <objects>
+                <viewControllerPlaceholder storyboardName="College" id="fq7-nS-g4z" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="LUB-vX-HX2" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1509" y="379"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="ygu-KP-96z">
